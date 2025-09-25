@@ -5,10 +5,11 @@ End-to-end data analysis project demonstrating SQL, Python, and Power BI skills.
 
 - **[01_Data](01_Data/)** – Main dataset (CSV) used for SQL, Python, and Power BI analysis  
 - **[02_SQL](02_SQL/)** – SQL scripts:
-  - Tables: [01_LoadSuperstoreFlat.sql](02_SQL/01_LoadSuperstoreFlat.sql), [02_Customers.sql](02_SQL/02_Customers.sql), [03_Products.sql](02_SQL/03_Products.sql), [04_Orders.sql](02_SQL/04_Orders.sql), [05_OrderDetails.sql](02_SQL/05_OrderDetails.sql)
-  - Views: [06_Views.sql](02_SQL/06_Views.sql)
-  - Queries: [07_Queries.sql](02_SQL/07_Queries.sql)
-  - Procedures: [08_Procedures.sql](02_SQL/08_Procedures.sql)
+  - **Load script:** [01_LoadSuperstoreFlat.sql](02_SQL/01_LoadSuperstoreFlat.sql) – loads the CSV data into the database
+  - **Tables:** [02_Customers.sql](02_SQL/02_Customers.sql), [03_Products.sql](02_SQL/03_Products.sql), [04_Orders.sql](02_SQL/04_Orders.sql), [05_OrderDetails.sql](02_SQL/05_OrderDetails.sql)
+  - **Views:** [06_Views.sql](02_SQL/06_Views.sql)
+  - **Queries:** [07_Queries.sql](02_SQL/07_Queries.sql)
+  - **Procedures:** [08_Procedures.sql](02_SQL/08_Procedures.sql)
 - **[03_Python](03_Python/)** – Jupyter notebooks for data analysis and clustering; includes HTML reports  
 - **[04_Power_BI](04_Power_BI/)** – Power BI dashboards and screenshots  
 - **[05_Reports](05_Reports/)** – Final reports and conclusions  
