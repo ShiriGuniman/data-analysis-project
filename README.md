@@ -12,7 +12,7 @@ End-to-end data analysis project demonstrating SQL, Python, and Power BI skills.
   - **Procedures:** [08_Procedures.sql](02_SQL/08_Procedures.sql)
 - **[03_Python](03_Python/)** – Jupyter notebooks for data analysis and clustering; includes HTML reports  
 - **[04_Power_BI](04_Power_BI/)** – Power BI dashboards and screenshots  
-- **[05_Reports](05_Reports/)** – Final reports and conclusions  
+- **[05_Reports](05_Reports/)** – Final reports and Power BI insights
 - **README.md** – This file
 
 ## Usage
